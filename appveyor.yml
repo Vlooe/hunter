@@ -19,8 +19,8 @@ environment:
     #   PROJECT_DIR: examples\Boost
 
     # FIXME:
-    # - TOOLCHAIN: "nmake-vs-12-2013-win64"
-    #   PROJECT_DIR: examples\Boost
+    - TOOLCHAIN: "nmake-vs-12-2013-win64"
+      PROJECT_DIR: examples\Boost
 
     # FIXME:
     # - TOOLCHAIN: "nmake-vs-12-2013"
